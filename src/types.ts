@@ -1,0 +1,1 @@
+// This file can be safely deleted as we've moved to JavaScript
